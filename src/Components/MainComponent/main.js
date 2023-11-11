@@ -38,7 +38,7 @@ const Main = () => {
               </div>
             </div>
 
-            <div className='myanimation mr-5'>
+            <div className='myanimation ' style={{"marginRight":"150px"}}>
 
               <div class="image-container " style={{ "float":"left"}}>
                 <img src="Assets/images/head_phone-removebg-preview 5.png" alt="Image 1" class="image active" />
