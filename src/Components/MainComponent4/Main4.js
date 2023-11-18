@@ -7,7 +7,7 @@ const Main4 = () => {
 
 <div className='row'>
 
-<div className='col-6'>
+<div className='col-6 p-0 m-0'>
 
 <img src="Assets/images/Main4.png" alt="Image 2"  />
 
@@ -16,7 +16,7 @@ const Main4 = () => {
 <div className='col-4   ' style={{marginTop:"350px",marginLeft:"200px"}}>
 
 
-<h1 style={{"color":"white",fontSize:"50px"}}> Our Work </h1>
+<h1 style={{"color":"white",fontSize:"60px", fontWeight:"bold"}}> Our Work </h1>
 
 <button
   type="button"

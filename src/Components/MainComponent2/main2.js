@@ -8,15 +8,15 @@ const Main2 = () => {
       
 
         <div className=''>
-            <h1 class="ml-5" style={{"color":"white","fontSize":"60px", "display":"inline-block"}}>Our Clients</h1>
+            <h1 class="ml-3 mt-5" style={{"color":"white","fontSize":"60px", "display":"inline-block"}}>Our Clients</h1>
             <p className="ml-2" style={{"color":"#FFFFFF","fontSize":"12px", "display":"inline-block"}}>🟧</p>
-            <h4 className="ml-5" style={{"color":"#717171"}}>we've transformed <font color="white">200+</font> visionary ideas into the vibrant realities of <p>ambitious entrepreneurs.</p></h4>
+            <h4 className="ml-3 mt-3 mb-4" style={{"color":"#717171"}}>we've transformed <font color="white">200+</font> visionary ideas into the vibrant realities of <p>ambitious entrepreneurs.</p></h4>
         </div>
 
         
         
 
-        <div className='row mt-4 '>
+        <div className='row mt-4'>
 
   <div className="col-lg-3 col-md-4 col-sm-12 mb-4 ml-5 mr-3">
     <div className="card" style={{ backgroundColor: "black" }}>
