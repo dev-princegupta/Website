@@ -17,7 +17,7 @@ const Main3 = () => {
 <div className='row mt-3'>
   <div className='col-5 trans ml-5' style={{"fontSize":"60px"}}>
 
-<h1 style={{"fontSize":"60px"}}> CAD Design</h1>
+<h1 style={{"fontSize":"60px"}}>CAD Design</h1>
 <h1 style={{"fontSize":"60px"}}>PCB Design</h1>
 <h1 style={{"fontSize":"60px"}}>UI,UX Design</h1>
 
